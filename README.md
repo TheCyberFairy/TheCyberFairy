@@ -12,17 +12,16 @@ Here are the cybersecurity labs I’ve completed so far. Each one simulates a re
 - 🛰️ [Suspicious Login Analysis Lab (Azure Sentinel)](https://github.com/blackgirlinfosec/suspicious-login-analysis-lab)  
   Analyzed login failures from foreign IPs using KQL and visualizations in Microsoft Sentinel.
 
-- 🛠️ [Threat Actor Simulation: PowerShell Abuse](https://github.com/blackgirlinfosec/threat-actor-simulation-lab)  
+- 🛠️ [Threat Actor Simulation: PowerShell Abuse](https://github.com/blackgirlinfosec/scheduled-task-persistence-lab)  
   Simulated a scheduled task backdoor and documented forensic artifacts using Sysmon.
 
-- 🔍 [Threat Intelligence Research Lab](https://github.com/blackgirlinfosec/threat-intelligence-research-lab)  
-  Investigated a real-world CVE using public intel tools like VirusTotal and ANY.RUN.
+- 🔍 [Phishing Email Triage Lab](https://github.com/blackgirlinfosec/soc-analyst-lab-phishing-investigation)  
+  A beginner-friendly phishing email analysis lab that walks through how to investigate a suspicious message like a real SOC analyst.
 
-- 🧷 [CVE Lab: LFI in Simple Inventory System](https://github.com/blackgirlinfosec/cve-lab-lfi-simple-inventory)  
-  Researched CVE-2023-33246, demonstrated a local file inclusion attack, and explained its detection path.
+- 🧷 [CVE-2025-39507 | Local File Inclusion in WordPress Nasa Core Plugin](https://github.com/blackgirlinfosec/cve-lfi-lab)  
+  Researched CVE-2025-39507, A hands on lab from a Tier 1 SOC analyst perspective. Includes log review in Microsoft Sentinel, IP analysis, and a simple breakdown of a local file inclusion vulnerability in a WordPress plugin.
 
-More labs coming soon — including phishing analysis, email triage, and Sysmon log parsing on Azure.
-
+More labs coming soon.
 ---
   
 🧠 Skills I’m Developing as a Cybersecurity Analyst
