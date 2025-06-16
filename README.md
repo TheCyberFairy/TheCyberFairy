@@ -6,6 +6,9 @@ I bring a unique blend of experience in customer service, entrepreneurship, and 
 
 Here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in a SOC environment.
 
+- [🧪 Credential Dump Detection Lab (LSASS Monitoring with Sysmon)](https://github.com/blackgirlinfosec/credential-dump-detection-lab)
+  Simulated credential theft by dumping LSASS using Task Manager. Detected the dump file with Sysmon logs and learned how to spot attack behavior using Event IDs 1 and 11.
+
 - 🧠 [Windows Event Log Analysis Lab](https://github.com/blackgirlinfosec/windows-event-log-analysis-lab)  
   Investigated brute-force login attempts using Windows logs and Event Viewer.
 
