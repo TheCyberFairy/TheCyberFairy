@@ -45,7 +45,7 @@ More labs coming soon.
 - Learning to identify attack patterns and lateral movement
 
 **⚙️ Tools & Automation (In Progress)**
-- Building labs in Microsoft Azure
+- Building labs in Microsoft Azure/VirtualBox
 - Exploring automation using Sentinel playbooks & PowerShell
 - Documenting findings in GitHub for portfolio growth
 
