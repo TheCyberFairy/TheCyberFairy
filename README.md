@@ -4,7 +4,7 @@ I bring a unique blend of experience in customer service, entrepreneurship, and 
 
 I'm currently focused on building a strong foundation in threat analysis and detection through roles like SOC analyst, while actively working toward my CEH and eJPT certifications to grow into a career in penetration testing. 
 
-### Certifications
+### 🎓 Certifications
 
 - Comptia Security + (Acquired May 2025)
 - eJPT (In Progress)
