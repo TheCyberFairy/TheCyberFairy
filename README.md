@@ -1,6 +1,13 @@
 # Hi, I’m Fee 💖 the CyberFairy 🧚🏾‍♀️✨
 
-I bring a unique blend of experience in customer service, entrepreneurship, and tech education. As a former technology trainer at a public library, I taught tools like Adobe Illustrator, Final Cut Pro, Logic Pro and 3D printing, empowering everyday people to build confidence with technology. Today, I’m channeling that same passion into cybersecurity: analyzing threats, learning tools like KQL and SIEMs, and preparing for certifications like Security+. I thrive at the intersection of creativity, technical knowledge, and human-centered problem solving.
+I bring a unique blend of experience in customer service, entrepreneurship, and tech education. As a former technology trainer at a public library, I taught tools like Adobe Illustrator, Final Cut Pro, Logic Pro, and 3D printing, empowering everyday people to build confidence with technology. Today, I’m channeling that same passion into cybersecurity: analyzing threats, learning tools like KQL and SIEMs. I thrive at the intersection of creativity, technical knowledge, and human-centered problem solving.
+
+I'm currently focused on building a strong foundation in threat analysis and detection through roles like SOC analyst, while actively working toward my CEH and eJPT certifications to grow into a career in penetration testing. 
+
+### Certifications
+
+- Comptia Security + (Acquired May 2025)
+- eJPT (In Progress)
 
 ### 🔬 Hands-On Labs
 
