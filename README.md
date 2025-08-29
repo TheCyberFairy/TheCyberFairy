@@ -1,4 +1,4 @@
-# Hi, I’m Fee 💖 the CyberFairy 🧚🏾‍♀️✨
+# Hi, I’m the CyberFairy 🧚🏾‍♀️✨
 
 I bring a unique blend of experience in customer service, entrepreneurship, and tech education. As a former technology trainer at a public library, I taught tools like Adobe Illustrator, Final Cut Pro, Logic Pro, and 3D printing, empowering everyday people to build confidence with technology. Today, I’m channeling that same passion into cybersecurity: analyzing threats, learning tools like KQL and SIEMs. I thrive at the intersection of creativity, technical knowledge, and human-centered problem solving.
 
@@ -7,7 +7,9 @@ I'm currently focused on building a strong foundation in threat analysis and det
 ### 🎓 Certifications
 
 - Comptia Security + (Acquired May 2025)
-- eJPT (In Progress)
+- Microsoft SC-900 Security, Compliance, and Identity Fundamentals (Acquired August 2025)
+- Cisco CCNA (In Progress)
+- eJPT (Planned)
 
 ### 🔬 Hands-On Labs
 
